@@ -1,0 +1,15 @@
+D:\Exam\HW\BWT\BWT\bin\Debug\net6.0\BWT.exe
+D:\Exam\HW\BWT\BWT\bin\Debug\net6.0\BWT.deps.json
+D:\Exam\HW\BWT\BWT\bin\Debug\net6.0\BWT.runtimeconfig.json
+D:\Exam\HW\BWT\BWT\bin\Debug\net6.0\BWT.dll
+D:\Exam\HW\BWT\BWT\bin\Debug\net6.0\BWT.pdb
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\BWT.csproj.AssemblyReference.cache
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\BWT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\BWT.AssemblyInfoInputs.cache
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\BWT.AssemblyInfo.cs
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\BWT.csproj.CoreCompileInputs.cache
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\BWT.dll
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\refint\BWT.dll
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\BWT.pdb
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\BWT.genruntimeconfig.cache
+D:\Exam\HW\BWT\BWT\obj\Debug\net6.0\ref\BWT.dll

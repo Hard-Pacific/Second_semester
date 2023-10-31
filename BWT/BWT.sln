@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BWT", "BWT\BWT.csproj", "{CD0B5002-C21A-499D-A75E-F2C8BBC94E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0B5002-C21A-499D-A75E-F2C8BBC94E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0B5002-C21A-499D-A75E-F2C8BBC94E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0B5002-C21A-499D-A75E-F2C8BBC94E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0B5002-C21A-499D-A75E-F2C8BBC94E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31300FCD-5C3A-4997-9EAB-3841EDCBE778}
+	EndGlobalSection
+EndGlobal
