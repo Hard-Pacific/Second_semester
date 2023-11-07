@@ -35,7 +35,13 @@ public class Game
             this.CurrentMatrixPosition = (newItem1CurrentMatrixPosition, newItem2CurrentMatrixPosition);
         }
     }
-
+    ///<summary>
+    /// A method that creates a matrix based on a map file.
+    /// Takes the path to the file as a parameter.
+    /// Reads the file line by line and determines the size of the matrix based on the number of lines and characters in each line.
+    /// Fills the matrix with characters from the file.
+    /// Sets the current cursor position in the matrix to the first empty cell.
+    ///</summary>
     public void CreateMatrixFromFileMap(string pathToFile)
     {
         using (StreamReader streamReader = new(pathToFile))
@@ -84,7 +90,12 @@ public class Game
             mapMatrix = resultMatrix;
         }
     }
-
+    ///<summary>
+    /// A method that outputs the contents of the matrix to the console.
+    /// If the matrix has not been created, an InvalidDataException is thrown.
+    /// Passes through each cell of the matrix and outputs the symbol to the console.
+    /// Sets the cursor to the current position in the matrix and outputs the '@' symbol.
+    ///</summary>
     public void PrintMapMatrix()
     {
         if (mapMatrix == null)
