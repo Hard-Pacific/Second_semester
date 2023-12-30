@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipList", "SkipList\SkipList.csproj", "{DA55F6C0-F3BF-4290-B9CB-8A6F49AB11BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipTestTests", "SkipTestTests\SkipTestTests.csproj", "{07196E65-588B-4182-949F-C66824223876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA55F6C0-F3BF-4290-B9CB-8A6F49AB11BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA55F6C0-F3BF-4290-B9CB-8A6F49AB11BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA55F6C0-F3BF-4290-B9CB-8A6F49AB11BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA55F6C0-F3BF-4290-B9CB-8A6F49AB11BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07196E65-588B-4182-949F-C66824223876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07196E65-588B-4182-949F-C66824223876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07196E65-588B-4182-949F-C66824223876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07196E65-588B-4182-949F-C66824223876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
