@@ -17,7 +17,6 @@ namespace HuffmanTest
 
             // Encode
             BitArray encoded = huffmanTree.Encode(input);
-
             Console.Write("Encoded: ");
             foreach (bool bit in encoded)
             {
